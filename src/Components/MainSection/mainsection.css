@@ -1,0 +1,51 @@
+.main-section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.trophy{
+    width: 100%;
+    height: 100%;
+}
+
+.first{
+    flex: 32%;
+}
+.second{
+    flex: 58%;
+}
+li{
+    font-size: 18px;
+    font-weight: 400;
+}
+.gap-20{
+    gap: 40px;
+}
+
+.grow-0{
+    flex-grow: 0;
+}
+.ml-20{
+    margin-left: 20px;
+}
+.my-20{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.award{
+    width: 100%;
+}
+.info{
+    font-size: 17px;
+    text-align: start;
+}
+@media screen and (max-width:768px) {
+    .gap-30{
+        gap: 30px;
+    }
+    .first{
+        flex: 100%;
+    }
+    
+
+    
+}

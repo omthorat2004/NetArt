@@ -13,3 +13,12 @@
 .justify-center{
   justify-content: center;
 }
+.flex-wrap{
+  flex-wrap: wrap;
+}
+.justify-start{
+  justify-content: flex-start;
+}
+.items-start{
+  align-items: flex-start;
+}
