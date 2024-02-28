@@ -4,6 +4,7 @@
   box-sizing: border-box;
   text-decoration: none;
   font-family: 'Inter';
+  text-align: justify;
 }
 body{
   background-image:linear-gradient(white,#F6F193) ;
