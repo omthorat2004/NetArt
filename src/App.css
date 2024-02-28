@@ -22,3 +22,6 @@
 .items-start{
   align-items: flex-start;
 }
+hr{
+  border: solid 1px red;
+}
