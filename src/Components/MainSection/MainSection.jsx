@@ -4,8 +4,8 @@ import award from '../../assets/2.png';
 import './mainsection.css';
 const MainSection = () => {
   return (
-    <div className='flex items-start gap-20 flex-wrap main-section gap-30'>
-        <div className='flex-40 grow-0 first '>
+    <div className='flex items-start gap-20  main-section gap-10'>
+        <div className='flex-40 grow-0 first flex items-center justify-center'>
           <img src={trophy} className='trophy' alt='Trophy' />
         </div>
         <div className='flex flex-col justify-start align-start second'>

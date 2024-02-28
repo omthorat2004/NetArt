@@ -8,7 +8,7 @@
 }
 
 .first{
-    flex: 32%;
+    flex: 30%;
 }
 .second{
     flex: 58%;
@@ -38,13 +38,42 @@ li{
     font-size: 17px;
     text-align: start;
 }
-@media screen and (max-width:768px) {
-    .gap-30{
-        gap: 30px;
-    }
+@media screen and (max-width:1024px) {
     .first{
+        flex: 35%;
+    }
+    .second{
+        flex: 55%;
+    }
+    
+}
+@media screen and (max-width:900px) {
+    .first{
+        flex: 40%;
+    }
+    .second{
+        flex: 50%;
+    }
+    .trophy{
+        width: 100%;
+    }
+    .gap-10{
+        gap: 10px;
+
+    }
+
+    
+}
+@media screen and (max-width:768px) {
+    .main-section{
+        flex-direction: column;
+        align-content: center;
         flex: 100%;
     }
+    .trophy{
+        width: 80%;
+    }
+    
     
 
     
