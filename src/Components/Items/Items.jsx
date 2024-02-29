@@ -9,8 +9,8 @@ INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CU
         <div className='flex justify-center items-center my-20'>
             <img className='items' src={parts}/>
         </div>
-        <div className='text-center'>
-            <p className='sub-2 my-20'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
+        <div >
+            <p className='sub-2 my-20 text-center'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
         </div>
         <hr/>
     </div>

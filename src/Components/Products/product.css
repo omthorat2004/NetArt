@@ -1,0 +1,46 @@
+.py-18{
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.text-center{
+    text-align: center;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.px-21{
+    padding-left: 21px;
+    padding-right: 21px;
+}
+.name{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+@media screen and (max-width:900px) {
+    .py-15{
+        padding-top: 13px;
+        -bottom: 15px;
+    }
+    .px-18{
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    .name{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .py-12{
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    .px-15{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .name{
+        font-size: 11px;
+    }
+}

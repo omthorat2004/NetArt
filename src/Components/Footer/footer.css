@@ -1,0 +1,21 @@
+.footer{
+    height: 120px;
+    background-color: #EF4040;
+}
+.gap-10{
+    gap: 10px;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.sub-logo{
+    border-radius: 50%;
+    overflow: hidden;
+    min-width: 50px;
+    
+    object-fit: cover;
+}
+.my{
+    margin-top: 20px;
+
+}
